@@ -41,8 +41,8 @@ app.get("/sendhtml", (req, res) => {
                 host: "smtp.mailtrap.io",
                 port: 2525,
                 auth: {
-                    user: "b4df963e91e7bc",
-                    pass: "18285e29ee0de7"
+                    user: "usuario",
+                    pass: "senha"
                 }
             });
 
